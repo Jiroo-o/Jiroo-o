@@ -103,7 +103,7 @@ Focus:
 ---
 
 ## Contact
-🧑🏻‍💼 Linkedin: https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/
+🧑🏻‍💼 Linkedin: https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218  
 📧 Email: auttaphannamphai@gmail.com  
 📱 Phone: 083-021-8019
 
