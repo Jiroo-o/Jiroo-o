@@ -98,7 +98,7 @@ Bachelor of Computer Engineering (2022 – 2026)
 
 Focus:
 - Embedded IoT
-- Network Engineering
+- Robotics
 
 ---
 
