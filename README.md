@@ -1,75 +1,71 @@
-# Hi, I'm Auttaphan 👋
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Auttaphan;Computer+Engineering+Graduate;Embedded+Systems+%26+Robotics+Engineer;IoT+%26+Firmware+Developer" alt="Typing SVG" />
-  
+
   <br/>
-  
+
   <img src="https://komarev.com/ghpvc/?username=Jiroo-o&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 ---
 
 ### 📖 About Me
+
 Computer Engineering graduate focused on Embedded Systems, Robotics, and IoT.  
 Experienced in firmware development, hardware integration, and embedded communication systems using STM32 and ESP32.
 
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="100%" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=tokyonight" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=tokyonight&hide_langs_below=1" width="60%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=tokyonight" width="49%" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=tokyonight&hide_langs_below=1" width="50%" alt="Top Languages" />
 </div>
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-<details open>
-  <summary><b>🔌 Microcontrollers & Hardware Platforms</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+<details>
+<summary><b>🔌 Microcontrollers & Hardware Platforms</b></summary>
+<br/>
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 </details>
 
-<details open>
-  <summary><b>💻 Software & Languages</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" />
+<details>
+<summary><b>💻 Software & Languages</b></summary>
+<br/>
+
+![C/C++](https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 </details>
 
-<details open>
-  <summary><b>📡 Protocols & Robotics</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Protocol-CAN_Bus-7AA2F7?style=for-the-badge&logoColor=white" alt="CAN Bus" />
-  <img src="https://img.shields.io/badge/Protocol-UART-7AA2F7?style=for-the-badge" alt="UART" />
-  <img src="https://img.shields.io/badge/Protocol-SPI-7AA2F7?style=for-the-badge" alt="SPI" />
-  <img src="https://img.shields.io/badge/Protocol-I2C-7AA2F7?style=for-the-badge" alt="I2C" />
-  <img src="https://img.shields.io/badge/Robotics-PID_Control-BB9AF7?style=for-the-badge" alt="PID" />
-  <img src="https://img.shields.io/badge/Robotics-Differential_Drive-BB9AF7?style=for-the-badge" alt="Diff Drive" />
+<details>
+<summary><b>📡 Protocols & Robotics</b></summary>
+<br/>
+
+![CAN Bus](https://img.shields.io/badge/Protocol-CAN_Bus-7AA2F7?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/Protocol-UART-7AA2F7?style=for-the-badge)
+![SPI](https://img.shields.io/badge/Protocol-SPI-7AA2F7?style=for-the-badge)
+![I2C](https://img.shields.io/badge/Protocol-I2C-7AA2F7?style=for-the-badge)
+![PID](https://img.shields.io/badge/Robotics-PID_Control-BB9AF7?style=for-the-badge)
+![Diff Drive](https://img.shields.io/badge/Robotics-Differential_Drive-BB9AF7?style=for-the-badge)
 </details>
 
-<details open>
-  <summary><b>🔧 Engineering Tools</b></summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Altium_Designer-A9221C?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white" alt="Node-RED" />
+<details>
+<summary><b>🔧 Engineering Tools</b></summary>
+<br/>
+
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-A9221C?style=for-the-badge&logo=altium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=node-red&logoColor=white)
 </details>
 
 ---
@@ -100,7 +96,7 @@ Experienced in firmware development, hardware integration, and embedded communic
 ---
 
 ### ⚡ Recent Activities
-Here is what I have been working on lately:
+
 <!-- ACTIVITY:START -->
 • ⭐ Starred [`HarvestX/PlayStation-JoyInterface-ROS2`](https://github.com/HarvestX/PlayStation-JoyInterface-ROS2) (Jul 09, 2026)
 • ⭐ Starred [`vedderb/vesc_tool`](https://github.com/vedderb/vesc_tool) (Jul 08, 2026)
@@ -126,6 +122,7 @@ Here is what I have been working on lately:
 ---
 
 ### 📬 Let's Connect!
+
 <div align="center">
   <a href="https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:auttaphannamphai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
