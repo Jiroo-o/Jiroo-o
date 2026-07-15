@@ -21,7 +21,7 @@ Experienced in firmware development, hardware integration, and embedded communic
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jiroo-o&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="100%" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" width="100%" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=tokyonight" width="100%" alt="GitHub Streak" />
@@ -29,7 +29,7 @@ Experienced in firmware development, hardware integration, and embedded communic
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=tokyonight&hide_langs_below=1" width="60%" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=tokyonight&hide_langs_below=1" width="60%" alt="Top Languages" />
 </div>
 
 ---
@@ -127,6 +127,7 @@ Here is what I have been working on lately:
 
 ### 📬 Let's Connect!
 <div align="center">
+  <a href="https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:auttaphannamphai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Phone-083--021--8019-green?style=for-the-badge" alt="Phone: 083-021-8019" />
   <a href="https://github.com/Jiroo-o"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
