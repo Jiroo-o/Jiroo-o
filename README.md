@@ -31,14 +31,20 @@ Computer Engineering graduate experienced in firmware development,<br/>hardware 
 <summary><h3>📊 Stats</h3></summary>
 <div align="center">
   <picture>
-    <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117" width="49%" alt="stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true&bg_color=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=default&count_private=true&hide_title=true&hide_border=true&bg_color=00000000" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=default&count_private=true&hide_title=true&hide_border=true" width="49%" alt="stats" />
   </picture>
   <picture>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" alt="streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=github-dark-blue&hide_border=true&background=00000000" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=default&hide_border=true&background=00000000" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=default&hide_border=true" width="49%" alt="streak" />
   </picture>
   <br/>
   <picture>
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&hide_langs_below=1" width="40%" alt="languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&hide_langs_below=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=default&hide_border=true&bg_color=00000000&hide_langs_below=1" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=default&hide_border=true&hide_langs_below=1" width="40%" alt="languages" />
   </picture>
 </div>
 </details>
