@@ -10,13 +10,13 @@ Computer Engineering graduate experienced in firmware development,<br/>hardware 
 
 <a href="https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
-</a>&nbsp;
+</a>
 <a href="mailto:auttaphannamphai@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
-</a>&nbsp;
+</a>
 <a href="https://github.com/Jiroo-o">
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
-</a>&nbsp;
+</a>
 <img src="https://img.shields.io/badge/083--021--8019-%2325D366.svg?&style=for-the-badge&logo=phone&logoColor=white" height="25" alt="Phone" />
 
 <br/>
