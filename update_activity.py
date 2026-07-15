@@ -66,7 +66,7 @@ def format_event(event):
         commit_count = len(commits)
         commit_word = "commit" if commit_count == 1 else "commits"
         
-        return f"• 📝 Pushed {commit_count} {commit_word} to [`{display_repo}`]({repo_url}): *\"{latest_commit_msg}\"* ({time_str})"
+        return f"📝 Pushed {commit_count} {commit_word} to [`{display_repo}`]({repo_url}): *\"{latest_commit_msg}\"* — {time_str}  "
         
     elif event_type == "PullRequestEvent":
         action = payload.get("action", "")
@@ -87,7 +87,7 @@ def format_event(event):
         else:
             return None
             
-        return f"• {emoji} {desc} [`#{pr.get('number')}` {title}]({pr_url}) in [`{display_repo}`]({repo_url}) ({time_str})"
+        return f"{emoji} {desc} [`#{pr.get('number')}` {title}]({pr_url}) in [`{display_repo}`]({repo_url}) — {time_str}  "
         
     elif event_type == "IssuesEvent":
         action = payload.get("action", "")
@@ -104,27 +104,27 @@ def format_event(event):
         else:
             return None
             
-        return f"• {emoji} {desc} [`#{issue.get('number')}` {title}]({issue_url}) in [`{display_repo}`]({repo_url}) ({time_str})"
+        return f"{emoji} {desc} [`#{issue.get('number')}` {title}]({issue_url}) in [`{display_repo}`]({repo_url}) — {time_str}  "
         
     elif event_type == "WatchEvent":
         action = payload.get("action", "")
         if action == "started":
-            return f"• ⭐ Starred [`{repo_name}`]({repo_url}) ({time_str})"
+            return f"⭐ Starred [`{repo_name}`]({repo_url}) — {time_str}  "
             
     elif event_type == "CreateEvent":
         ref_type = payload.get("ref_type", "")
         ref = payload.get("ref", "")
         if ref_type == "repository":
-            return f"• 🆕 Created new repository [`{repo_name}`]({repo_url}) ({time_str})"
+            return f"🆕 Created new repository [`{repo_name}`]({repo_url}) — {time_str}  "
         elif ref_type == "branch" and ref:
-            return f"• 🌿 Created branch `{ref}` in [`{display_repo}`]({repo_url}) ({time_str})"
+            return f"🌿 Created branch `{ref}` in [`{display_repo}`]({repo_url}) — {time_str}  "
             
     return None
 
 def build_activity_markdown(events):
     """Processes events and compiles them into a markdown list."""
     if not events:
-        return "• *No recent activity found.*"
+        return "*No recent activity found.*"
         
     markdown_lines = []
     seen_activities = set() # Avoid too much repetition for the same repo/action type
@@ -139,7 +139,7 @@ def build_activity_markdown(events):
                 break
                 
     if not markdown_lines:
-        return "• *No recent activity found.*"
+        return "*No recent activity found.*"
         
     return "\n".join(markdown_lines)
 

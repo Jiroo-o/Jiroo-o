@@ -1,85 +1,108 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=300&size=22&duration=3000&pause=1000&color=9AA5CE&center=true&vCenter=true&width=500&lines=Auttaphan+Namphai;Embedded+Systems+Engineer;Robotics+%26+IoT+Developer" alt="Typing SVG" />
+# Auttaphan Namphai
 
+`Embedded Systems` · `Robotics` · `IoT`
+
+Computer Engineering graduate experienced in firmware development,<br/>hardware integration, and embedded communication systems using STM32 and ESP32.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:auttaphannamphai@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Email" />
+</a>&nbsp;
+<a href="https://github.com/Jiroo-o">
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub" />
+</a>&nbsp;
+<img src="https://img.shields.io/badge/083--021--8019-%2325D366.svg?&style=for-the-badge&logo=phone&logoColor=white" height="25" alt="Phone" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jiroo-o&color=363b44&style=flat-square&label=views" alt="views" />
+
+</div>
+
+---
+
+<details open>
+<summary><h3>📊 Stats</h3></summary>
+<div align="center">
+  <picture>
+    <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=github_dark&count_private=true&hide_title=true&hide_border=true&bg_color=0d1117" width="49%" alt="stats" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=github-dark-blue&hide_border=true&background=0d1117" width="49%" alt="streak" />
+  </picture>
   <br/>
-
-  <sub>
-    <img src="https://komarev.com/ghpvc/?username=Jiroo-o&color=9aa5ce&style=flat-square&label=views" alt="Profile Views" />
-  </sub>
-
+  <picture>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&hide_langs_below=1" width="40%" alt="languages" />
+  </picture>
 </div>
-
-<br/>
-
-> Computer Engineering graduate focused on Embedded Systems, Robotics, and IoT.
-> Experienced in firmware development, hardware integration, and embedded communication systems using STM32 and ESP32.
-
-<br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Jiroo-o&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&bg_color=00000000" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiroo-o&theme=tokyonight&hide_border=true&background=00000000" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jiroo-o&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_langs_below=1" width="38%" alt="Top Languages" />
-</div>
-
-<br/>
+</details>
 
 ---
 
-<br/>
+<details open>
+<summary><h3>🛠 Skills</h3></summary>
 
-### Skills
+| | |
+|---|---|
+| **Platforms** | STM32 · ESP32 · Arduino · Raspberry Pi |
+| **Languages** | C / C++ · Python · Linux (Ubuntu) |
+| **Protocols** | CAN Bus · UART · SPI · I2C |
+| **Robotics** | PID Control · Differential Drive |
+| **Tools** | Altium Designer · Git · Node-RED |
 
-**Platforms** &emsp; STM32 · ESP32 · Arduino · Raspberry Pi  
-**Languages** &emsp; C / C++ · Python · Linux (Ubuntu)  
-**Protocols** &emsp; CAN Bus · UART · SPI · I2C  
-**Robotics** &emsp; PID Control · Differential Drive  
-**Tools** &emsp; Altium Designer · Git · Node-RED
-
-<br/>
+</details>
 
 ---
 
-<br/>
+<details open>
+<summary><h3>🚀 Projects</h3></summary>
 
-### Projects
+<table>
+<tr><td>
 
-**[Mobile Robot with UWB Localization](https://github.com/RobotUWB/Mobile-Robot-with-Ultra-Wideband-Localization)**  
+#### [Mobile Robot with UWB Localization](https://github.com/RobotUWB/Mobile-Robot-with-Ultra-Wideband-Localization)
+
 Indoor mobile robot system using Ultra-Wideband (UWB) for real-time positioning.
 
-- STM32-based motor control firmware  
-- Differential drive control with PID  
-- IMU integration (BNO055)  
-- ESP32 communication bridge (WebSocket ↔ UART)  
-- OTA firmware update  
-- Emergency stop system  
+- STM32-based motor control firmware
+- Differential drive control with PID
+- IMU integration (BNO055)
+- ESP32 communication bridge (WebSocket ↔ UART)
+- OTA firmware update
+- Emergency stop system
 
 `STM32` `ESP32` `UART` `I2C` `PID` `UWB`
 
-<br/>
+</td></tr>
+<tr><td>
 
-**[Modular Firmware Updater over CAN Bus](https://github.com/Jiroo-o/Modular_Firmware_Updater_over_CAN-Bus)**  
+#### [Modular Firmware Updater over CAN Bus](https://github.com/Jiroo-o/Modular_Firmware_Updater_over_CAN-Bus)
+
 Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 
-- CAN-based bootloader for STM32F103  
-- CRC32 firmware verification  
-- Custom CAN framing protocol  
-- Python flashing utility  
-- Multi-module firmware update support  
+- CAN-based bootloader for STM32F103
+- CRC32 firmware verification
+- Custom CAN framing protocol
+- Python flashing utility
+- Multi-module firmware update support
 
 `STM32` `CAN Bus` `Bootloader` `Python` `CRC32`
 
-<br/>
+</td></tr>
+</table>
+
+</details>
 
 ---
 
-<br/>
-
-### Recent Activity
+<details open>
+<summary><h3>⚡ Recent Activity</h3></summary>
 
 <!-- ACTIVITY:START -->
 • ⭐ Starred [`HarvestX/PlayStation-JoyInterface-ROS2`](https://github.com/HarvestX/PlayStation-JoyInterface-ROS2) (Jul 09, 2026)
@@ -90,41 +113,26 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 • ⭐ Starred [`PetoiCamp/OpenCat-Quadruped-Robot`](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) (Jun 18, 2026)
 <!-- ACTIVITY:END -->
 
-<br/>
+</details>
 
 ---
 
-<br/>
-
-### Experience
+<details open>
+<summary><h3>💼 Experience & Education</h3></summary>
 
 **Embedded Systems Intern** — Group Maker Company Limited (GMR)  
 *May 2025 – March 2026*
 
-- Developed embedded firmware for STM32, ESP32, and Arduino-based robotics and IoT systems  
-- Implemented CAN bus communication between STM32 nodes  
-- Designed CAN-based firmware update systems  
-- Performed hardware bring-up and debugging  
-- Designed PCBs using EasyEDA and Altium Designer  
+- Developed embedded firmware for STM32, ESP32, and Arduino-based robotics and IoT systems
+- Implemented CAN bus communication between STM32 nodes
+- Designed CAN-based firmware update systems
+- Performed hardware bring-up and debugging
+- Designed PCBs using EasyEDA and Altium Designer
 
-<br/>
-
-### Education
+---
 
 **Bachelor of Computer Engineering** — Mahanakorn University of Technology  
 *2022 – 2026*  
 Focus: Embedded IoT & Network Engineering *(Specialized in Embedded Systems & Robotics)*
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-  <sub>
-
-[LinkedIn](https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218/) · [Email](mailto:auttaphannamphai@gmail.com) · 083-021-8019 · [GitHub](https://github.com/Jiroo-o)
-
-  </sub>
-</div>
+</details>
