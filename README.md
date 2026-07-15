@@ -1,7 +1,7 @@
-# Hi there, I'm Auttaphan Namphai 👋
+# Hi, I'm Auttaphan 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Auttaphan+Namphai;Computer+Engineering+Graduate;Embedded+Systems+%26+Robotics+Engineer;IoT+%26+Firmware+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Auttaphan;Computer+Engineering+Graduate;Embedded+Systems+%26+Robotics+Engineer;IoT+%26+Firmware+Developer" alt="Typing SVG" />
   
   <br/>
   
@@ -11,7 +11,8 @@
 ---
 
 ### 📖 About Me
-I am a **Computer Engineering graduate** passionate about **Embedded Systems, Robotics, and IoT**. My expertise lies in firmware development, hardware-software integration, and designing reliable embedded communication systems. I love bridging the physical and digital worlds!
+Computer Engineering graduate focused on Embedded Systems, Robotics, and IoT.  
+Experienced in firmware development, hardware integration, and embedded communication systems using STM32 and ESP32.
 
 ---
 
@@ -76,18 +77,23 @@ I am a **Computer Engineering graduate** passionate about **Embedded Systems, Ro
 ### 🚗 Featured Projects
 
 #### 🤖 [Mobile Robot with UWB Localization](https://github.com/RobotUWB/Mobile-Robot-with-Ultra-Wideband-Localization)
-> **An indoor mobile robot system utilizing Ultra-Wideband (UWB) for precise, real-time positioning.**
-> *   **Control Firmware**: STM32-based motor control with closed-loop PID differential drive and IMU (BNO055) fusion.
-> *   **Connectivity & Updates**: ESP32 acting as a WebSocket ↔ UART communications bridge, supporting OTA firmware updates.
-> *   **Hardware Safety**: Integrated hardware emergency stop control loop.
+> **Indoor mobile robot system using Ultra-Wideband (UWB) for real-time positioning.**
+> *   STM32-based motor control firmware
+> *   Differential drive control with PID
+> *   IMU integration (BNO055)
+> *   ESP32 communication bridge (WebSocket ↔ UART)
+> *   OTA firmware update
+> *   Emergency stop system
 >
 > 🛠️ **Technologies**: `STM32` `ESP32` `UART` `I2C` `PID` `UWB`
 
 #### 🔧 [Modular Firmware Updater over CAN Bus](https://github.com/Jiroo-o/Modular_Firmware_Updater_over_CAN-Bus)
-> **A custom STM32 bootloader enabling remote firmware flashing over CAN bus networks.**
-> *   **Bootloading**: CAN bootloader designed for STM32F103 nodes with full CRC32 flashing payload verification.
-> *   **Network Protocol**: Lightweight custom CAN framing protocol optimized for microcontroller networks.
-> *   **Flashing Utility**: High-level flashing script implemented in Python to manage multi-module rollouts.
+> **Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.**
+> *   CAN-based bootloader for STM32F103
+> *   CRC32 firmware verification
+> *   Custom CAN framing protocol
+> *   Python flashing utility
+> *   Multi-module firmware update support
 >
 > 🛠️ **Technologies**: `STM32` `CAN Bus` `Bootloader` `Python` `CRC32`
 
@@ -108,18 +114,20 @@ Here is what I have been working on lately:
 
 ### 💼 Experience & Education
 
-*   **Embedded Firmware Engineer (Contract)** | *May 2025 – March 2026*
-    *   Developed embedded firmware for STM32, ESP32, and Arduino-based robotics.
-    *   Implemented robust CAN bus node communication and CAN-based bootloaders.
-    *   Designed PCBs using EasyEDA and Altium Designer, performing hardware bring-up and debugging.
-*   **Bachelor of Computer Engineering** | *King Mongkut's Institute of Technology (2022 – 2026)*
-    *   Focus areas: Embedded IoT Systems & Robotics.
+*   **Embedded Systems Intern** | *Group Maker Company Limited (GMR)* | *May 2025 – March 2026*
+    *   Developed embedded firmware for STM32, ESP32, and Arduino-based robotics and IoT systems
+    *   Implemented CAN bus communication between STM32 nodes
+    *   Designed CAN-based firmware update systems
+    *   Performed hardware bring-up and debugging
+    *   Designed PCBs using EasyEDA and Altium Designer
+*   **Bachelor of Computer Engineering** | *Mahanakorn University of Technology (2022 – 2026)*
+    *   Focus: Embedded IoT & Network Engineering *(Specialized in Embedded Systems & Robotics)*
 
 ---
 
 ### 📬 Let's Connect!
 <div align="center">
-  <a href="https://www.linkedin.com/in/auttaphan-namphai-bb5b7a218"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:auttaphannamphai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Phone-083--021--8019-green?style=for-the-badge" alt="Phone: 083-021-8019" />
   <a href="https://github.com/Jiroo-o"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
