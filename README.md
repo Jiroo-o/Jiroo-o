@@ -110,7 +110,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 ⭐ Starred [`vedderb/vesc_tool`](https://github.com/vedderb/vesc_tool) — Jul 08, 2026  
 ⭐ Starred [`f1tenth/f1tenth_system`](https://github.com/f1tenth/f1tenth_system) — Jul 07, 2026  
 ⭐ Starred [`BenMakesEverything/Pocket-Lab-Power-Supply`](https://github.com/BenMakesEverything/Pocket-Lab-Power-Supply) — Jul 05, 2026  
-⭐ Starred [`correlllab/rh56_controller`](https://github.com/correlllab/rh56_controller) — Jun 22, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
