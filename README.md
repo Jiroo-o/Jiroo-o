@@ -109,7 +109,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 ⭐ Starred [`vedderb/bldc-hardware`](https://github.com/vedderb/bldc-hardware) — Jul 15, 2026  
 ⭐ Starred [`HarvestX/PlayStation-JoyInterface-ROS2`](https://github.com/HarvestX/PlayStation-JoyInterface-ROS2) — Jul 09, 2026  
 ⭐ Starred [`vedderb/vesc_tool`](https://github.com/vedderb/vesc_tool) — Jul 08, 2026  
-⭐ Starred [`f1tenth/f1tenth_system`](https://github.com/f1tenth/f1tenth_system) — Jul 07, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
