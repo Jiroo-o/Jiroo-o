@@ -106,7 +106,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 
 <!-- ACTIVITY:START -->
 ⭐ Starred [`utmapp/UTM`](https://github.com/utmapp/UTM) — Aug 03, 2026  
-⭐ Starred [`vedderb/bldc-hardware`](https://github.com/vedderb/bldc-hardware) — Jul 15, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
