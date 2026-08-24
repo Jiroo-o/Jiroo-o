@@ -105,6 +105,8 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!-- ACTIVITY:START -->
+⭐ Starred [`hathach/tinyusb`](https://github.com/hathach/tinyusb) — Aug 24, 2026  
+⭐ Starred [`carlosperate/awesome-pyproject`](https://github.com/carlosperate/awesome-pyproject) — Aug 24, 2026  
 ⭐ Starred [`utmapp/UTM`](https://github.com/utmapp/UTM) — Aug 03, 2026  
 <!-- ACTIVITY:END -->
 
