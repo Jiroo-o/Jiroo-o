@@ -106,7 +106,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 
 <!-- ACTIVITY:START -->
 ⭐ Starred [`tmarhguy/frameport`](https://github.com/tmarhguy/frameport) — Sep 14, 2026  
-⭐ Starred [`hathach/tinyusb`](https://github.com/hathach/tinyusb) — Aug 24, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
