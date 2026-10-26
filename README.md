@@ -105,12 +105,12 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!-- ACTIVITY:START -->
+⭐ Starred [`drfenixion/freecad.robotcad`](https://github.com/drfenixion/freecad.robotcad) — Oct 26, 2026  
 ⭐ Starred [`KingKongRobotics/jumper`](https://github.com/KingKongRobotics/jumper) — Oct 23, 2026  
 ⭐ Starred [`unitreerobotics/unitree_mujoco`](https://github.com/unitreerobotics/unitree_mujoco) — Oct 20, 2026  
 ⭐ Starred [`bobeff/open-source-games`](https://github.com/bobeff/open-source-games) — Oct 06, 2026  
 ⭐ Starred [`librepods-org/librepods`](https://github.com/librepods-org/librepods) — Oct 05, 2026  
 🌿 Created branch `Jiroo-o-patch-1` in [`RobotUWB/Mobile-Robot-with-Ultra-Wideband-Localization`](https://github.com/RobotUWB/Mobile-Robot-with-Ultra-Wideband-Localization) — Oct 01, 2026  
-⭐ Starred [`aktasenes/BLDC_driver`](https://github.com/aktasenes/BLDC_driver) — Oct 01, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
