@@ -109,7 +109,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 ⭐ Starred [`KingKongRobotics/jumper`](https://github.com/KingKongRobotics/jumper) — Oct 23, 2026  
 ⭐ Starred [`unitreerobotics/unitree_mujoco`](https://github.com/unitreerobotics/unitree_mujoco) — Oct 20, 2026  
 ⭐ Starred [`bobeff/open-source-games`](https://github.com/bobeff/open-source-games) — Oct 06, 2026  
-⭐ Starred [`librepods-org/librepods`](https://github.com/librepods-org/librepods) — Oct 05, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
