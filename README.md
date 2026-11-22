@@ -107,7 +107,6 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 <!-- ACTIVITY:START -->
 ⭐ Starred [`adnanademovic/rosrust`](https://github.com/adnanademovic/rosrust) — Nov 12, 2026  
 ⭐ Starred [`drfenixion/freecad.robotcad`](https://github.com/drfenixion/freecad.robotcad) — Oct 26, 2026  
-⭐ Starred [`KingKongRobotics/jumper`](https://github.com/KingKongRobotics/jumper) — Oct 23, 2026  
 <!-- ACTIVITY:END -->
 
 </details>
