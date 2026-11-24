@@ -105,6 +105,7 @@ Custom STM32 bootloader enabling firmware updates over CAN bus without ST-Link.
 <summary><h3>⚡ Recent Activity</h3></summary>
 
 <!-- ACTIVITY:START -->
+⭐ Starred [`lichtblick-suite/lichtblick`](https://github.com/lichtblick-suite/lichtblick) — Nov 24, 2026  
 ⭐ Starred [`adnanademovic/rosrust`](https://github.com/adnanademovic/rosrust) — Nov 12, 2026  
 ⭐ Starred [`drfenixion/freecad.robotcad`](https://github.com/drfenixion/freecad.robotcad) — Oct 26, 2026  
 <!-- ACTIVITY:END -->
